@@ -12,7 +12,7 @@
     },
     {
       "id": 456,
-      "categoria": "comida",
+      "categoria": "jardineria",
       "titulo": "Jardinería comunitaria",
       "descripcion": "Únete para plantar y embellecer toda la ciudad.",
       "ubicacion": "Flora City",
@@ -30,5 +30,27 @@
       "hora": "11:00",
       "organizador": "John Smith"
     }
+  ],
+  "eventos_2": [
+    {
+      "id": 124,
+      "categoria": "bienestar_animal",
+      "titulo": "Día de adopción de gatos",
+      "descripcion": "Encuentra tu nuevo gato en este evento.",
+      "ubicacion": "Porteña",
+      "fecha": "30 de Mayo, 2023",
+      "hora": "12:00",
+      "organizador": "María Antonia Mercado"
+    },
+    {
+      "id": 457,
+      "categoria": "comida",
+      "titulo": "Preparación de comida para indigentes",
+      "descripcion": "Ayúdanos a prepara comida para las personas con menos recursos",
+      "ubicacion": "Córdoba",
+      "fecha": "19 de Julio, 2021",
+      "hora": "20:00",
+      "organizador": "Francisco Julian"
+    },
   ]
 }
