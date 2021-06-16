@@ -1,0 +1,34 @@
+{
+  "eventos": [
+    {
+      "id": 123,
+      "categoria": "bienestar_animal",
+      "titulo": "Día de adopción de perros",
+      "descripcion": "Encuentra tu nuevo perro en este evento.",
+      "ubicacion": "San Francisco",
+      "fecha": "28 de Enero, 2022",
+      "hora": "12:00",
+      "organizador": "Nikola Tesla"
+    },
+    {
+      "id": 456,
+      "categoria": "comida",
+      "titulo": "Community Gardening",
+      "descripcion": "Join us as we tend to the community edible plants.",
+      "ubicacion": "Flora City",
+      "fecha": "14 de Marzo, 2022",
+      "hora": "10:00",
+      "organizador": "Leonardo da Vinci"
+    },
+    {
+      "id": 789,
+      "categoria": "sostenibilidad",
+      "titulo": "Limpieza de playas",
+      "descripcion": "Ayudanos a limmpiar la costa de la playa.",
+      "ubicacion": "Playa Del Carmen",
+      "fecha": "22 de Julio, 2022",
+      "hora": "11:00",
+      "organizador": "John Smith"
+    }
+  ]
+}
