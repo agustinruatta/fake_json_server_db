@@ -52,5 +52,33 @@
       "hora": "20:00",
       "organizador": "Francisco Julian"
     }
+  ],
+  "techonologies": [
+    {
+      "id": 1,
+      "name": "PHP"
+    },
+    {
+      "id": 2,
+      "name": "C#"
+    },
+    {
+      "id": 3,
+      "name": "Java"
+    },
+    {
+      "id": 4,
+      "name": "JavaScript"
+    }
+  ],
+  "rates": [
+    {
+      "technology_id": 2,
+      "seniority": "semi_senior",
+      "language": "spanish",
+      "average_salary_in_cents": "6500000",
+      "gross_margin_in_cents": "99900",
+      "currency": "ars"
+    }
   ]
 }
