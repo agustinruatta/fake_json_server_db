@@ -80,6 +80,15 @@
       "average_salary_in_cents": "6500000",
       "gross_margin_in_cents": "99900",
       "currency": "ars"
+    },
+    {
+      "id": 2,
+      "technology_id": 2,
+      "seniority": "senior",
+      "language": "english",
+      "average_salary_in_cents": "2000",
+      "gross_margin_in_cents": "100",
+      "currency": "usd"
     }
   ]
 }
