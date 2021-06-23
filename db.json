@@ -73,6 +73,7 @@
   ],
   "rates": [
     {
+      "id": 1,
       "technology_id": 2,
       "seniority": "semi_senior",
       "language": "spanish",
