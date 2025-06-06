@@ -9,7 +9,7 @@
       "features": [
         {
           "name": "RAM",
-          "description": "16 GB RAM"
+          "description": "16 GB"
         },
         {
           "name": "Procesador",
@@ -26,7 +26,7 @@
       "features": [
         {
           "name": "RAM",
-          "description": "4 GB RAM"
+          "description": "4 GB"
         },
         {
           "name": "Procesador",
@@ -43,7 +43,7 @@
       "features": [
         {
           "name": "RAM",
-          "description": "16 GB RAM"
+          "description": "16 GB"
         },
         {
           "name": "Procesador",
@@ -60,7 +60,7 @@
       "features": [
         {
           "name": "RAM",
-          "description": "8 GB RAM"
+          "description": "8 GB"
         },
         {
           "name": "Procesador",
